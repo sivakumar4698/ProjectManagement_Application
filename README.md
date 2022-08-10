@@ -37,7 +37,7 @@ Over All I had fun learning graphQL, the application runs perfectly.
 
 If you want to run the application. 
 
-Install the dependencies just to be sure. Run - npm install
+Install the dependencies just to be sure. Run - npm install (In root directory as well as in client directory)
 
 You will have to run it for server and the client.
 
