@@ -33,6 +33,10 @@ Over All I had fun learning graphQL, the application runs perfectly.
 - delete clients and projects
 - Setting up the project status
 
+### Application Link
+
+https://project-managementapp.netlify.app/
+
 ## How to Run the application.
 
 If you want to run the application. 
