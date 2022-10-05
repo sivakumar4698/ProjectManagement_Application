@@ -35,7 +35,7 @@ Over All I had fun learning graphQL, the application runs perfectly.
 
 ### Application Link
 
-https://project-managementapp.netlify.app/
+https://project-managementapp.netlify.app
 
 ## How to Run the application.
 
